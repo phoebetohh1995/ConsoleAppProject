@@ -1,0 +1,6 @@
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicModelsLibrary\bin\Debug\ClinicModelsLibrary.dll
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicModelsLibrary\bin\Debug\ClinicModelsLibrary.pdb
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.csproj.AssemblyReference.cache
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.csproj.CoreCompileInputs.cache
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.dll
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicModelsLibrary\obj\Debug\ClinicModelsLibrary.pdb

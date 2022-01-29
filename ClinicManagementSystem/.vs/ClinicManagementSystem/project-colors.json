@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86ee1fe4-f026-4957-87f8-183be8cac363": {
+      "ProjectGuid": "86ee1fe4-f026-4957-87f8-183be8cac363",
+      "DisplayName": "ClinicManagementSystem",
+      "ColorIndex": 0
+    },
+    "3d896fe7-4900-4153-b1e0-5237fb4e9c40": {
+      "ProjectGuid": "3d896fe7-4900-4153-b1e0-5237fb4e9c40",
+      "DisplayName": "ClinicModelsLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

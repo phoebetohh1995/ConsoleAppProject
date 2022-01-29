@@ -1,0 +1,11 @@
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe.config
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.exe
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicManagementSystem.pdb
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicModelsLibrary.dll
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\bin\Debug\ClinicModelsLibrary.pdb
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.csproj.AssemblyReference.cache
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.csproj.CoreCompileInputs.cache
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.csproj.CopyComplete
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.exe
+C:\Phoebe\ClinicManagementSystem Project\ClinicManagementSystem\ClinicManagementSystem\obj\Debug\ClinicManagementSystem.pdb
